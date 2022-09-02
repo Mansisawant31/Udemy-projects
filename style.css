@@ -1,0 +1,110 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color: #F70776;
+    color: black;
+}
+.new-n{
+    padding: 0 50px;
+}
+.nav-item{
+    
+    padding: 0 30px;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+.nav-item:hover{
+    color: white;
+}
+.row{
+    background-color: #F70776;
+    justify-content: center;
+    padding: 7% 11%;
+    color: white;
+    
+}
+.button-text{
+  
+    margin: 5% 3% 5% 0%;
+}
+#features{
+    padding: 7% 15%;
+}
+.card{
+    color: black;
+    padding: 7% 15%;
+    text-align: center;
+}
+.header{
+    font-weight: bold;
+    padding-bottom: 13px;
+}
+.header-text{
+    font-size: 3.5rem;
+}
+.para{
+    color:gray;
+}
+.icon{
+ 
+    color: #FF0000;
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color: #F70776;
+}
+#carosel{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #F70776;
+    color: #fff;
+}
+h2{
+    font-size: 1.5rem;
+    line-height: 1.5;
+}
+.carosel-img{
+   width: 10%;
+   border-radius:100%;
+  
+   margin: 20px; 
+}
+#press{
+    background-color: #F70776;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.press-logo{
+    width: 15%;
+    margin: 20px 20px 50px;
+}
+#cta{
+    background-color: #F7ECDE;
+    color: #F70776;
+    padding: 7% 15%;
+    text-align: center;
+}
+.cta-head{
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+#footer{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #F70776;
+    color: #fff;
+}
+.social-media{
+    font-size: 1.5rem;
+    line-height: 1.7;
+    margin: 5px;
+}
+.cpy{
+    padding-top: 13px;
+    margin: 5px;
+
+}
+.btn-one{
+    margin: 5px; 
+}
